@@ -28,17 +28,18 @@ try {
     // Selectize
     require('selectize');
 
-    // RequireJS
-    // require('requirejs/require');
-
     // bootstrap-datepicker
     require('bootstrap-datepicker');
+
+    // eonasdan-bootstrap-datetimepicker
+    require('eonasdan-bootstrap-datetimepicker');
 
     // select2
     require('select2');
 
     // circle-progress
     require('circle-progress');
+
 
     // <!----- Here your modules add ----->
 
@@ -74,7 +75,6 @@ if (token) {
     console.error('CSRF token not found: https://laravel.com/docs/csrf#csrf-x-csrf-token');
 }
 
-
 /** Core JS
  *
  */
@@ -88,8 +88,6 @@ let hexToRgba = function(hex, opacity) {
 
     return 'rgba(' + rgb.r + ', ' + rgb.g + ', ' + rgb.b + ', ' + opacity + ')';
 };
-
-
 
 
 /**
@@ -207,6 +205,10 @@ $(document).ready(function() {
     $('.js-datepicker').datepicker({
         todayHighlight: true,
         autoclose: true
+    });
+    $('.js-datetimepicker').datetimepicker({
+        sideBySide: true,
+        format: 'YYYY-MM-DD HH:mm:ss',
     });
     $('.js-select2').select2({
         allowClear: true,
