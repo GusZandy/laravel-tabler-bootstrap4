@@ -1,0 +1,21 @@
+// Fonts
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import "../css/fonts.css";
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Dashboard
+@import "dashboard/dashboard";
+
+// Bootstrap Datepicker
+@import "~bootstrap-datepicker/dist/css/bootstrap-datepicker3.css";
+
+// Select2
+@import "~select2/dist/css/select2.css";
+
+// Select2 Bootstrap Theme
+@import "~@ttskch/select2-bootstrap4-theme/dist/select2-bootstrap4.css";
