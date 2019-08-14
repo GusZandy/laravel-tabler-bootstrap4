@@ -59,9 +59,22 @@
             <a class="dropdown-item" href="#">
                 <i class="dropdown-icon fe fe-help-circle"></i> Need help?
             </a>
-            <a class="dropdown-item" href="#">
-                <i class="dropdown-icon fe fe-log-out"></i> Sign out
-            </a>
+            <div class="dropdown-divider"></div>
+{{--            <a class="dropdown-item" href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">--}}
+{{--                <i class="dropdown-icon fe fe-log-out"></i> {{ __('Logout') }}--}}
+{{--            </a>--}}
+{{--            <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">--}}
+{{--                @csrf--}}
+{{--            </form>--}}
+                <a class="dropdown-item" href="{{ route('logout') }}"
+                   onclick="event.preventDefault();
+                                                     document.getElementById('logout-form').submit();">
+                    {{ __('Logout') }}
+                </a>
+
+                <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                    @csrf
+                </form>
         </div>
     </div>
 </div>

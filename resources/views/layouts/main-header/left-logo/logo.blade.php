@@ -1,3 +1,3 @@
-<a class="header-brand" href="./index.html">
-    <img src="./demo/brand/tabler.svg" class="header-brand-img" alt="tabler logo">
+<a class="header-brand" href="{{ route('home') }}">
+    <img src="{{ url('/images/tabler.svg') }}" class="header-brand-img" alt="tabler logo">
 </a>
