@@ -9,21 +9,21 @@
         </a>
         <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow">
             <a href="#" class="dropdown-item d-flex">
-                <span class="avatar mr-3 align-self-center" style="background-image: url(demo/faces/male/41.jpg)"></span>
+                <span class="avatar mr-3 align-self-center" style=""></span>
                 <div>
                     <strong>Nathan</strong> pushed new commit: Fix page load performance issue.
                     <div class="small text-muted">10 minutes ago</div>
                 </div>
             </a>
             <a href="#" class="dropdown-item d-flex">
-                <span class="avatar mr-3 align-self-center" style="background-image: url(demo/faces/female/1.jpg)"></span>
+                <span class="avatar mr-3 align-self-center" style=""></span>
                 <div>
                     <strong>Alice</strong> started new task: Tabler UI design.
                     <div class="small text-muted">1 hour ago</div>
                 </div>
             </a>
             <a href="#" class="dropdown-item d-flex">
-                <span class="avatar mr-3 align-self-center" style="background-image: url(demo/faces/female/18.jpg)"></span>
+                <span class="avatar mr-3 align-self-center" style=""></span>
                 <div>
                     <strong>Rose</strong> deployed new version of NodeJS REST Api V3
                     <div class="small text-muted">2 hours ago</div>
@@ -35,7 +35,7 @@
     </div>
     <div class="dropdown">
         <a href="#" class="nav-link pr-0 leading-none" data-toggle="dropdown">
-            <span class="avatar" style="background-image: url(./demo/faces/female/25.jpg)"></span>
+            <span class="avatar" style=""></span>
             <span class="ml-2 d-none d-lg-block">
                       <span class="text-default">Jane Pearson</span>
                       <small class="text-muted d-block mt-1">Administrator</small>
