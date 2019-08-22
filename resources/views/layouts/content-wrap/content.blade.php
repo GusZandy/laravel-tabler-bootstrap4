@@ -2,8 +2,11 @@
     <div class="container">
         <div class="page-header">
             <h1 class="page-title">
-                Dashboard
+                @yield('page-title')
             </h1>
+        </div>
+        <div class="page-content">
+            @yield('content')
         </div>
     </div>
 </div>

@@ -1,796 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83886b55-8e32-4abe-9052-824e920eb457" name="Default Changelist" comment="Added components.">
+    <list default="true" id="83886b55-8e32-4abe-9052-824e920eb457" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/main-header/navbar-right-menu/menu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/main-header/navbar-right-menu/menu.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
-    <list id="dcf6a980-c68d-4134-95aa-510b267c45d9" name="Added pages of auth and errors." comment="Added pages of auth and errors.">
-      <change afterPath="$PROJECT_DIR$/public/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/tabler.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/content-wrapper.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/errors/403.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/errors/404.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/2checkout-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/2checkout.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ad.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ae.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/af.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ag.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ai.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/al.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/alipay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/alipay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/am.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/amazon-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/amazon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/americanexpress-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/americanexpress.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/android-browser.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ao.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/aol-explorer.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/applepay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/applepay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/aq.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/as.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/at.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/au.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/aw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ax.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/az.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ba.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bancontact-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bancontact.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bd.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/be.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bh.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bi.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bitcoin-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bitcoin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bitpay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bitpay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bj.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/blackberry.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bq.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/br.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/android-browser.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/aol-explorer.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/blackberry.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/camino.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/chrome.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/chromium.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/dolphin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/edge.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/firefox.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/ie.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/maxthon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/mozilla.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/netscape.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/opera.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/safari.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/sleipnir.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/uc-browser.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/browsers/vivaldi.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bs.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bv.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/by.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ca.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/camino.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cd.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ch.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/chrome.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/chromium.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ci.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cirrus-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cirrus.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ck.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/clickandbuy-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/clickandbuy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/co.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/coinkite-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/coinkite.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crypto-currencies/bitcoin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crypto-currencies/cardano.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crypto-currencies/dash.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crypto-currencies/eos.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crypto-currencies/ethereum.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crypto-currencies/litecoin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crypto-currencies/nem.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crypto-currencies/ripple.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cv.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cx.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/de.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/dinersclub-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/dinersclub.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/directdebit-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/directdebit.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/discover-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/discover.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/dj.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/dk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/dm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/do.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/dolphin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/dwolla-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/dwolla.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/dz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ebay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ebay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ec.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/edge.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ee.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/eg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/eh.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/er.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/es.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/et.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/eu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/eway-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/eway.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/fi.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/firefox.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/fj.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/fk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ad.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ae.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/af.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ag.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ai.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/al.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/am.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ao.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/aq.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/as.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/at.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/au.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/aw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ax.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/az.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ba.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bd.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/be.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bh.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bi.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bj.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bq.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/br.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bs.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bv.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/by.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/bz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ca.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/cc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/cd.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/cf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/cg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ch.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ci.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ck.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/cl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/cm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/cn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/co.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/cr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/cu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/cv.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/cw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/cx.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/cy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/cz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/de.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/dj.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/dk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/dm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/do.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/dz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ec.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ee.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/eg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/eh.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/er.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/es.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/et.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/eu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/fi.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/fj.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/fk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/fm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/fo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/fr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ga.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gb-eng.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gb-nir.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gb-sct.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gb-wls.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gd.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ge.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gh.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gi.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gq.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gs.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/gy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/hk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/hm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/hn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/hr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ht.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/hu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/id.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ie.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/il.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/im.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/in.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/io.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/iq.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ir.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/is.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/it.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/je.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/jm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/jo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/jp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ke.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/kg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/kh.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ki.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/km.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/kn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/kp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/kr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/kw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ky.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/kz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/la.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/lb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/lc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/li.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/lk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/lr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ls.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/lt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/lu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/lv.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ly.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ma.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/md.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/me.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mh.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ml.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mq.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ms.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mv.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mx.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/my.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/mz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/na.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/nc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ne.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/nf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ng.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ni.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/nl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/no.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/np.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/nr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/nu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/nz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/om.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/pa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/pe.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/pf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/pg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ph.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/pk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/pl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/pm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/pn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/pr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ps.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/pt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/pw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/py.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/qa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/re.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ro.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/rs.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ru.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/rw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sd.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/se.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sh.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/si.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sj.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/so.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ss.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/st.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sv.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sx.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/sz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/tc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/td.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/tf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/tg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/th.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/tj.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/tk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/tl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/tm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/tn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/to.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/tr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/tt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/tv.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/tw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/tz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ua.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ug.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/um.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/un.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/us.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/uy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/uz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/va.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/vc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ve.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/vg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/vi.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/vn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/vu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/wf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ws.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/ye.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/yt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/za.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/zm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/flags/zw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/fm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/fo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/fr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ga.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gb-eng.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gb-nir.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gb-sct.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gb-wls.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gd.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ge.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gh.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gi.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/giropay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/giropay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/googlewallet-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/googlewallet.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gq.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gs.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/hk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/hm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/hn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/hr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ht.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/hu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/id.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ie.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/il.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/im.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/in.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ingenico-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ingenico.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/io.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/iq.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ir.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/is.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/it.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/jcb-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/jcb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/je.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/jm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/jo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/jp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ke.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/kg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/kh.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ki.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/klarna-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/klarna.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/km.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/kn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/kp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/kr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/kw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ky.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/kz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/la.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/laser-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/laser.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/lb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/lc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/li.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/lk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/lr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ls.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/lt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/lu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/lv.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ly.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ma.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/maestro-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/maestro.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mastercard-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mastercard.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/maxthon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/md.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/me.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mh.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ml.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/monero-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/monero.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mozilla.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mq.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ms.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mv.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mx.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/my.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/na.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/nc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ne.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/neteller-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/neteller.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/netscape.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/nf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ng.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ni.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/nl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/no.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/np.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/nr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/nu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/nz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ogone-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ogone.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/okpay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/okpay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/om.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/opera.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/pa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/paybox-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/paybox.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/2checkout-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/2checkout.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/alipay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/alipay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/amazon-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/amazon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/americanexpress-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/americanexpress.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/applepay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/applepay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/bancontact-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/bancontact.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/bitcoin-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/bitcoin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/bitpay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/bitpay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/cirrus-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/cirrus.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/clickandbuy-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/clickandbuy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/coinkite-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/coinkite.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/dinersclub-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/dinersclub.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/directdebit-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/directdebit.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/discover-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/discover.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/dwolla-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/dwolla.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/ebay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/ebay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/eway-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/eway.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/giropay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/giropay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/googlewallet-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/googlewallet.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/ingenico-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/ingenico.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/jcb-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/jcb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/klarna-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/klarna.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/laser-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/laser.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/maestro-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/maestro.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/mastercard-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/mastercard.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/monero-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/monero.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/neteller-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/neteller.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/ogone-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/ogone.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/okpay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/okpay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/paybox-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/paybox.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/paymill-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/paymill.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/payone-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/payone.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/payoneer-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/payoneer.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/paypal-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/paypal.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/paysafecard-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/paysafecard.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/payu-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/payu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/payza-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/payza.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/ripple-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/ripple.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/sage-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/sage.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/sepa-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/sepa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/shopify-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/shopify.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/skrill-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/skrill.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/solo-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/solo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/square-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/square.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/stripe-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/stripe.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/switch-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/switch.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/ukash-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/ukash.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/unionpay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/unionpay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/verifone-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/verifone.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/verisign-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/verisign.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/visa-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/visa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/webmoney-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/webmoney.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/westernunion-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/westernunion.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/worldpay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payments/worldpay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/paymill-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/paymill.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payone-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payone.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payoneer-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payoneer.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/paypal-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/paypal.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/paysafecard-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/paysafecard.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payu-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payza-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/payza.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/pe.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/pf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/pg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ph.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/pk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/pl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/pm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/pn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/pr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ps.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/pt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/pw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/py.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/qa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/re.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ripple-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ripple.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ro.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/rs.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ru.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/rw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/safari.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sage-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sage.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sd.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/se.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sepa-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sepa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sh.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/shopify-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/shopify.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/si.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sj.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/skrill-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/skrill.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sleipnir.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/so.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/solo-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/solo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/square-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/square.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ss.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/st.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/stripe-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/stripe.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sv.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/switch-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/switch.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sx.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/td.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/th.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tj.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/to.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tv.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ua.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/uc-browser.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ug.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ukash-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ukash.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/um.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/un.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/unionpay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/unionpay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/us.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/uy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/uz.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/va.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/vc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ve.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/verifone-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/verifone.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/verisign-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/verisign.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/vg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/vi.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/visa-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/visa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/vivaldi.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/vn.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/vu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/webmoney-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/webmoney.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/westernunion-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/westernunion.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/wf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/worldpay-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/worldpay.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ws.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ye.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/yt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/za.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/zm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/zw.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/verify.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/verify.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/main-header/left-logo/logo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/main-header/left-logo/logo.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/main-header/navbar-right-menu/menu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/main-header/navbar-right-menu/menu.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/content-wrap/content.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/content-wrap/content.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/main-header/tabs/tabs.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/main-header/tabs/tabs.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -805,59 +20,19 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/errors/404.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/layouts/main-header/navbar-right-menu/menu.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/errors/403.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/web.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/resources/views/components/panel.blade.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -882,10 +57,12 @@
       <find>tabler.svg</find>
       <find>logout</find>
       <find>register</find>
+      <find>page-content</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/resources/views</dir>
       <dir>$PROJECT_DIR$/app/Http/Controllers</dir>
+      <dir>$PROJECT_DIR$/resources/views/layouts</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -896,7 +73,6 @@
       <list>
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/resources/views/layouts/main-header/navbar-right-menu/navbar-right-menu.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/main-header/tabs/tabs.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/main-header/main.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/content-wrap/footer-content/footer-content.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/main-footer/main.blade.php" />
@@ -904,7 +80,6 @@
         <option value="$PROJECT_DIR$/resources/css/dashboard.css" />
         <option value="$PROJECT_DIR$/resources/css/fonts.css" />
         <option value="$PROJECT_DIR$/../../Template/tabler-master/dist/empty.html" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/content-wrap/content.blade.php" />
         <option value="$PROJECT_DIR$/../../Template/tabler-master/dist/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/resources/sass/tabler0.scss" />
@@ -933,19 +108,11 @@
         <option value="$PROJECT_DIR$/resources/views/layouts/main-header/left-logo/logo.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/main-header/navbar-right-menu/menu.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/main-header/tabs/tabs.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/content-wrap/content.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
       </list>
     </option>
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/resources/views/layouts/main-header/navbar-right-menu/menu.blade.php">
-      <ranges>
-        <range start1="11" end1="12" start2="11" end2="12" changelist="83886b55-8e32-4abe-9052-824e920eb457" />
-        <range start1="18" end1="19" start2="18" end2="19" changelist="83886b55-8e32-4abe-9052-824e920eb457" />
-        <range start1="25" end1="26" start2="25" end2="26" changelist="83886b55-8e32-4abe-9052-824e920eb457" />
-        <range start1="37" end1="38" start2="37" end2="38" changelist="83886b55-8e32-4abe-9052-824e920eb457" />
-        <range start1="61" end1="64" start2="61" end2="77" changelist="dcf6a980-c68d-4134-95aa-510b267c45d9" />
-      </ranges>
-    </file>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -1044,6 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1054,28 +222,32 @@
             <path>
               <item name="laravel-tabler" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel-tabler" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laravel-tabler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-tabler" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="laravel-tabler" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel-tabler" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="laravel-tabler" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel-tabler" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel-tabler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel-tabler" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1131,7 +303,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="83886b55-8e32-4abe-9052-824e920eb457" name="Default Changelist" comment="" />
-      <changelist id="dcf6a980-c68d-4134-95aa-510b267c45d9" name="Added pages of auth and errors." comment="" />
       <created>1564833102685</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -1147,7 +318,8 @@
       <workItem from="1565663072442" duration="2114000" />
       <workItem from="1565697287226" duration="14000" />
       <workItem from="1565713314411" duration="1406000" />
-      <workItem from="1565741230301" duration="5661000" />
+      <workItem from="1565741230301" duration="6372000" />
+      <workItem from="1566441946341" duration="1361000" />
     </task>
     <task id="LOCAL-00001" summary="Added components.">
       <created>1565487632220</created>
@@ -1163,11 +335,25 @@
       <option name="project" value="LOCAL" />
       <updated>1565746396849</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added components.">
+      <created>1565746912380</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565746912380</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added pages of auth and errors.">
+      <created>1565746944420</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565746944420</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34813000" />
+    <option name="totallyTimeSpent" value="36885000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1182,7 +368,7 @@
     <frame x="59" y="25" width="1307" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20935765" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21252973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -1194,11 +380,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3403909" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3392857" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1233,6 +419,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added components." />
@@ -1240,42 +440,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added pages of auth and errors." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/content-wrap/content.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/main-header/main.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap-sass/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-90">
-            <folding>
-              <element signature="n#!!doc" expanded="true" />
-              <element signature="n#!!doc" expanded="true" />
-              <element signature="n#!!doc" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Template/tabler-master/dist/assets/css/dashboard.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-790">
-          <caret line="14997" column="9" selection-start-line="14997" selection-start-column="1" selection-end-line="14997" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/js/bootstrap.bundle.min.js" />
     <entry file="file://$PROJECT_DIR$/resources/sass/_variables0.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1403,13 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../Template/tabler-master/dist/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
@@ -1420,19 +577,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/2checkout-dark.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/2checkout-dark.svg" />
     <entry file="file://$PROJECT_DIR$/public/images/tabler.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/auth/login0.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="60" column="97" lean-forward="true" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/login0.blade.php" />
     <entry file="file://$PROJECT_DIR$/../../Template/tabler-master/dist/register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1443,13 +592,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/auth/register0.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="56" column="132" selection-start-line="56" selection-start-column="104" selection-end-line="56" selection-end-column="132" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/register0.blade.php" />
     <entry file="file://$PROJECT_DIR$/resources/views/auth/content-wrapper.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -1478,45 +621,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/errors/400.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/400.blade.php" />
     <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/errors/403.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/errors/404.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -1527,17 +636,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/404.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/main-header/navbar-right-menu/menu.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        <state relative-caret-position="435">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/403.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="79" column="22" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/main-header/tabs/tabs.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/main-header/main.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/content-wrap/content.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/components/panel.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
