@@ -1,4 +1,4 @@
-# Laravel Tabler
+# Laravel Tabler Bootstrap 4
 Laravel 5.8 Package for integrating Tabler template and this package is Laravel Mix friendly. Currently this package can be integrated easily only on fresh installation.
 
 # Installation
