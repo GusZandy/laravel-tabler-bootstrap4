@@ -68,6 +68,10 @@ class TablerMakeCommand extends Command
         $this->xcopy(__DIR__.'/../../../resources/js', resource_path('js'));
         $this->info('Copying sass...');
         $this->xcopy(__DIR__.'/../../../resources/sass', resource_path('sass'));
+        $this->info('Copying css...');
+        $this->xcopy(__DIR__.'/../../../resources/css', resource_path('css'));
+        $this->info('Copying fonts...');
+        $this->xcopy(__DIR__.'/../../../resources/fonts', resource_path('fonts'));
         $this->info('Copying public...');
         $this->xcopy(__DIR__.'/../../../public', public_path());
         if (!$this->option('views')) {
