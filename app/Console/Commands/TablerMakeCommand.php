@@ -64,8 +64,10 @@ class TablerMakeCommand extends Command
                 resource_path('views/'.$value)
             );
         }
-        $this->info('Copying assets...');
-        $this->xcopy(__DIR__.'/../../../resources/assets', resource_path('assets'));
+        $this->info('Copying js...');
+        $this->xcopy(__DIR__.'/../../../resources/js', resource_path('js'));
+        $this->info('Copying sass...');
+        $this->xcopy(__DIR__.'/../../../resources/sass', resource_path('sass'));
         $this->info('Copying public...');
         $this->xcopy(__DIR__.'/../../../public', public_path());
         if (!$this->option('views')) {
