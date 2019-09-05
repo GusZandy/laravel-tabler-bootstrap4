@@ -1,4 +1,4 @@
-@extends('tabler::layouts.app')
+@extends('layouts.app')
 
 @section('page-title', 'Home')
 

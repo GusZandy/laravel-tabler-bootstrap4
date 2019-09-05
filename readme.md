@@ -1,36 +1,28 @@
 # Laravel Tabler
-Laravel 5.5, 5.6, and 5.7 Package for integrating Tabler template and this package is Laravel Mix friendly. Currently this package can be integrated easily only on fresh installation.
+Laravel 5.8 Package for integrating Tabler template and this package is Laravel Mix friendly. Currently this package can be integrated easily only on fresh installation.
 
 # Installation
 ```bash
-composer require guszandy/laravel-tabler
+composer require guszandy/laravel-tabler-bootstrap4
 ```
-If you are using Laravel 5.5 above skip this step, but if aren't then add this line on ```config/app.php```, on  ```providers```
-```php
-'providers' => [
-  ...
-  GusZandy\Tabler\Providers\AppServiceProvider::class,
-  ...
-]
-```
-And then run,
+Run this code below to implement the template,
 ```bash
 php artisan make:tabler
 ```
-Let's see what we've install. First, make sure that you already ran ```php artisan migrate``` command, then do
+Let's see what we've installed. First, make sure that you've already ran ```php artisan migrate``` command, then do
 ```bash
 php artisan serve
 ```
-Viola! You've running a Laravel site using Tabler.
+Viola! a Laravel site using Tabler is running right now.
 
 # Configuration and Views Customization
 ## Config
-To publish this package config to your app config run
+To publish this package config to your app config, run this code below
 ```bash
 php artisan vendor:publish --provider="GusZandy\Tabler\Providers\AppServiceProvider" --tag="config"
 ```
 ## Views
-To publish this package views so you can customize on your own run
+To publish this package views so you can customize on your own, run this code below
 ```bash
 php artisan vendor:publish --provider="GusZandy\Tabler\Providers\AppServiceProvider" --tag="views"
 ```

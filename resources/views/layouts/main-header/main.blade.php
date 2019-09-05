@@ -3,10 +3,10 @@
         <div class="d-flex">
 
             {{--left logo--}}
-            @include('layouts.main-header.left-logo.logo')
+            @include('tabler::layouts.main-header.left-logo.logo')
 
             {{-- navbar right menus  --}}
-            @include('layouts.main-header.navbar-right-menu.menu')
+            @include('tabler::layouts.main-header.navbar-right-menu.menu')
 
         </div>
     </div>
@@ -15,7 +15,7 @@
     <div class="container">
 
         {{-- tabs  --}}
-        @include('layouts.main-header.tabs.tabs')
+        @include('tabler::layouts.main-header.tabs.tabs')
 
     </div>
 </div>

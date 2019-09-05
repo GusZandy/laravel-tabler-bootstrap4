@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Console\Commands;
+namespace GusZandy\Tabler\Console\Commands;
 
 use Illuminate\Console\Command;
 

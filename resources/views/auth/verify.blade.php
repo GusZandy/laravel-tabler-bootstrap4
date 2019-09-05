@@ -1,4 +1,4 @@
-@extends('auth.content-wrapper')
+@extends('tabler::auth.content-wrapper')
 
 @section('content')
 <div class="container">
