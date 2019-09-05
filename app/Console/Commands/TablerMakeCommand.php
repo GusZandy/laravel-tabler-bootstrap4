@@ -53,8 +53,8 @@ class TablerMakeCommand extends Command
      */
     public function handle()
     {
-        $this->info('Execute make:auth');
-        $this->call('make:auth', [ '--force' => true, '--views' => $this->option('views') ]);
+//        $this->info('Execute make:auth');
+//        $this->call('make:auth', [ '--force' => true, '--views' => $this->option('views') ]);
         $this->info('Start Tabler scaffolding');
         $this->info('Copying views...');
         $this->createDirectories();
