@@ -1,7 +1,8 @@
 <?php
 
-namespace App\Providers;
+namespace GusZandy\Tabler\Providers;
 
+use GusZandy\Tabler\Console\Commands\TablerMakeCommand;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
@@ -13,7 +14,18 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+        $this->publishes([
+            __DIR__.'/../../config/tabler.php' => config_path('tabler.php'),
+        ], 'config');
+        $this->loadViewsFrom(__DIR__.'/../../resources/views', 'tabler');
+        $this->publishes([
+            __DIR__.'/../../resources/views' => resource_path('views/vendor/tabler')
+        ], 'views');
+        if ($this->app->runningInConsole()) {
+            $this->commands([
+                TablerMakeCommand::class,
+            ]);
+        }
     }
 
     /**
@@ -23,6 +35,8 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+        $this->mergeConfigFrom(
+            __DIR__.'/../../config/tabler.php', 'tabler'
+        );
     }
 }

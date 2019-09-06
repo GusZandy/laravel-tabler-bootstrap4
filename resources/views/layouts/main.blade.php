@@ -45,18 +45,18 @@
     <div class="flex-fill">
 
         {{--  Header --}}
-        @include('layouts.main-header.main')
+        @include('tabler::layouts.main-header.main')
 
         {{--  content --}}
-        @include('layouts.content-wrap.content')
+        @include('tabler::layouts.content-wrap.content')
 
     </div>
 
     {{--  Footer content --}}
-    @include('layouts.footer-content.footer-content')
+    @include('tabler::layouts.footer-content.footer-content')
 
     {{--  Footer Page  --}}
-    @include('layouts.main-footer.main')
+    @include('tabler::layouts.main-footer.main')
 
 </div>
 @section('scripts')
