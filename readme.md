@@ -3,17 +3,20 @@ Laravel 5.8 and 6.0 Package for integrating Tabler template and this package is 
 
 # Pre-Installation
 Before install, you must create the authentication scaffolding manually
+
 - for Laravel 5.8
 ```php
 php artisan make:auth
 ```
 - for Laravel 6.0
-```bash
-composer require laravel/ui
-```
-```php
-php artisan ui vue --auth
-```
+  1. First install laravel/ui package from composer  
+     ```bash
+     composer require laravel/ui
+     ```
+  1. And then, run code below
+     ```php
+     php artisan ui vue --auth
+     ```
 
 # Installation
 ```bash
