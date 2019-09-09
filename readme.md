@@ -53,16 +53,16 @@ npm install
 ```
 
 Install Tabler needed package from npm
-```npm
+```php
 npm install --save-dev bootstrap bootstrap-sass popper.js chart.js d3 font-awesome jquery-circle-progress jvectormap moment requirejs select2 select2-bootstrap-theme selectize sparkline tabler-ui tablesorter bootstrap-datepicker eonasdan-bootstrap-datetimepicker @ttskch/select2-bootstrap4-theme
 ```
 
 Run Laravel Mix command
-```npm
+```php
 npm run development
 ```
 or use ```production``` minimize output
-```npm
+```php
 npm run production
 ```
 
