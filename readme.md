@@ -1,5 +1,19 @@
 # Laravel Tabler Bootstrap 4
-Laravel 5.8 Package for integrating Tabler template and this package is Laravel Mix friendly. Currently this package can be integrated easily only on fresh installation.
+Laravel 5.8 and 6.0 Package for integrating Tabler template and this package is Laravel Mix friendly. Currently this package can be integrated easily only on fresh installation.
+
+# Pre-Installation
+Before install, you must create the authentication scaffolding manually
+- for Laravel 5.8
+```php
+php artisan make:auth
+```
+- for Laravel 6.0
+```bash
+composer require laravel/ui
+```
+```php
+php artisan ui vue --auth
+```
 
 # Installation
 ```bash
