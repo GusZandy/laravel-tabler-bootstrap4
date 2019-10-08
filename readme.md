@@ -72,3 +72,42 @@ Then have a good look on these files
 - ```resources/assets/sass/tabler.scss```
 
 Happy experimenting!
+
+# How to use components in this package
+## 1. Panel
+```php
+@component('tabler::components.panel', [ 'title' => 'Welcome' ])
+  @slot('tools')
+      <a href="#" class="card-options-collapse" data-toggle="card-collapse"><i
+              class="fe fe-chevron-up"></i></a>
+      <a href="#" class="card-options-remove" data-toggle="card-remove"><i class="fe fe-x"></i></a>
+  @endslot
+  You are logged in!
+@endcomponent
+```
+
+## 2. Alert
+```php
+@component('tabler::components.alert', [ 'type' => 'info' ])
+  @slot('text')
+     This is an alert component.
+  @endslot
+@endcomponent
+```
+
+## 3. Button
+```php
+@component('tabler::components.button', [ 'type' => 'info', 'url' => 'www.google.com' ])
+  @slot('text')
+     This is a button component.
+  @endslot
+@endcomponent
+```
+## 4. Tabs
+```php
+@component('tabler::components.tabs', [ 'nav_tabs' => 'info' ])
+  @slot('tab_panes')
+     This is a tab component.
+  @endslot
+@endcomponent
+```
