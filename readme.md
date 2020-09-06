@@ -1,5 +1,5 @@
 # Laravel Tabler Bootstrap 4
-Laravel 5.8 and 6.0 Package for integrating Tabler template and this package is Laravel Mix friendly. Currently this package can be integrated easily only on fresh installation.
+Laravel 5.8 and 6.0 Package for integrating Tabler template and this package is Laravel Mix friendly. Currently this package can be integrated easily only on fresh installation. For laravel >= 7.0, you can use develop branch.
 
 # Pre-Installation
 Before install, you must create the authentication scaffolding manually
@@ -8,7 +8,7 @@ Before install, you must create the authentication scaffolding manually
 ```php
 php artisan make:auth
 ```
-- for Laravel 6.0
+- for Laravel >= 6.0 
   1. First install laravel/ui package from composer  
      ```php
      composer require laravel/ui
@@ -22,6 +22,11 @@ php artisan make:auth
 ```php
 composer require guszandy/laravel-tabler-bootstrap4
 ```
+For laravel >= 7.0, use this:
+```php
+composer require guszandy/laravel-tabler-bootstrap4:dev-develop
+```
+
 Run this code below to implement the template,
 ```php
 php artisan make:tabler
